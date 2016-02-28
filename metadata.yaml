@@ -1,0 +1,29 @@
+_repo: The-Child-and-Childhood-in-Folk-Thought-Studies-of-the-Activities-and-Influences-of-the-Child-__7966
+creator:
+  author:
+    agent_name: Chamberlain, Alexander Francis
+    aliases:
+    - Chamberlain, Alexander F. (Alexander Francis)
+    - Chamberlain, A. F. (Alexander Francis)
+    birthdate: 1865
+    deathdate: 1914
+    gutenberg_agent_id: '2601'
+    url: http://www.gutenberg.org/2009/agents/2601
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Folklore'
+- !lcsh 'Child rearing'
+- !lcc 'GR'
+- !lcsh 'Folklore and children'
+title: "The Child and Childhood in Folk-Thought\r\nStudies of the Activities and Influences\
+  \ of the Child Among Primitive Peoples, Their Analogues and Survivals in the Civilization\
+  \ of To-Day"
+url: http://www.gutenberg.org/ebooks/7966
